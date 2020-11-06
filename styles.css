@@ -1,0 +1,35 @@
+.carousel-item {
+  height: 32rem;
+  background: rgb(177, 176, 176);
+  color: #fff;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+}
+
+footer {
+  padding-bottom: 50px;
+  background: #a6acae;
+  display: flex;
+  justify-content: space-around;
+  border-top: 2px solid #757879;
+}
+
+.btn-lg {
+  align-items: center;
+  border: 1px solid #fff;
+  margin-top: 30px;
+}
+
+.about {
+  background: #e4e4d7;
+  padding: 15px;
+}
+
+#lastP {
+  margin-bottom: 0;
+}
+
+.carousel-button {
+  margin-bottom: 400px;
+}
